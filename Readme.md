@@ -6,6 +6,7 @@
     - Kód musí být zkomiloavatelný
     - Úkoly bude hodnotit pozvolna
     - Povídá o používání '///' k dokumentaci namísto obyčených '//' komentářů
+    - ZKOUSKA
 
 - Psát testy
 - Prezetovat SP.
