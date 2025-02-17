@@ -5,6 +5,7 @@
 - Průběžně odevzdávat úkoly
     - Kód musí být zkomiloavatelný
     - Úkoly bude hodnotit pozvolna
+    - Povídá o používání '///' k dokumentaci namísto obyčených '//' komentářů
 
 - Psát testy
 - Prezetovat SP.
