@@ -9,4 +9,4 @@
 - Psát testy
 - Prezetovat SP.
 
-## Tým Standa, Kryštof, Petr neboli SKRRRRRRR
+## Tým Standa, Kryštof, Petr neboli SKRRRRRRR  ID = T16
